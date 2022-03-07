@@ -1,0 +1,54 @@
+Data science is the study large quantities of data which can reveal insights that can help organizations make strategic choices
+Data science can help organisations 1) Understand their environments
+Analyze existing issues 3) Reveal previously hidden opportunities.
+Data scientist can use data analysis to add to the knowledge of the organization by investigating data exploring the best way to use it and provide value to business
+Many companies will use data science to target specific problems
+what data do we need to solve the provblem?
+can analyzie data in structured and unstructered format and analyzde the problem and conme up with a solution
+data scientist are curious people who as question.
+when data has revealed its insights the role of the data scientist becomes that of a story teller, 
+data scientist can use powerful visualization tools to help stakeholders understand the nature of the result and then recommend the appropriate action to take.
+curious judgemntal and argumentative
+
+Day 2
+
+Use data science for one common problem that is optimam solution for the existing problem
+HOW DO YOU GET THE EFFIECIENT SOLUTION?
+One must identify the problem and have established a clear underwstanding of it, Gather the daya for analysis and identify the right tools to use, and develop a clear data strategy.
+Once this is stablished and availablr data is extracted, you can develope a machine learning model. 
+REGRESSION - regression tells you what the base fare is and what is the relationship between time and the fare you paid and the distance you travelled and the fare you paid, Because in the absence
+of knowing those relationships and just knowing how much people travelled for and how much they paid,
+regression allows you to compute that constant that you didnt know.
+A data scientist os someone who finds solutions to a problem by analyzing big or small data using appropriate tools and then tells a story to communicate his or her findings to the relevant stakeholders
+
+Day 3
+BIG DATA
+according to Ernst and Yong, "Big data refers to the dynamic, large and disparate volumes of data beign created by people. tools and machines. It requires new innovative anfd scalable technology to collect host and analytically process the vast amount of data gathered in order to derive real time
+business insights that relate to consumers risk profit performance productivity management and enhanced shareholder value.
+Common terms in every definition of big data:
+Velociy-Volume-Variety-Veracity-Value
+These are the V's OF BIG DATA
+Veocity is the speed ata which the data is being accumulates.
+Volume is the scale of data, or the increase in the amount of data stored. 
+Variety is the diversity of the data. It also refelcts that data comes from different sources machines people and processes both inyternal and external to organizations.
+Veracity is quality and origin of data and its conformity to facts and accuracy. F-Cosistency completeness integrity ambiguity.
+Value is our ability and need to turn data into value. it just doesnt mean only profit. it may have medical or social benefits as well as coustomer or personal satisfaction.
+
+DAY 4
+Data mining is the process of automatically searching and analysing data discovering previously unrevealing pattern. It includes preprocessing data and transforming it in a appropritae format. 
+Once this is done insights and patterns are mined using various tools and techniques ranging from simple data visualization to machine learning and statistical models.
+MACHINE LEARNING
+It is a subset of AI that uses computer algorithms to analysze data and make intelligent decisions based on wbhat it has leanred, without being explicitly programmed.
+machine learning is trained with large sets of data and They learn from examples. The do not follow rule-based algorithms.
+Machine learning is what enables machines to solve problems on their own am=nd make accurate predictions using the provided data
+DEEP LEARNING
+It is a spcialized subset of Machine Learning that uses layered neural networks to simulate human decision making.
+Deep learning algorithms can label and categorize information and identify patterns. It is what enables AI systems to continuously learn on the job and improve the quality and accuracy of results by determining whether decisions were correct.
+NEURAL NETWORKS
+A nural netrwrok in AI is a collection of small computing units called neurons that take incoming data and learn to make decision overtime. Neural networks are often leyered deep and are the reason deep learning algorithms becone more efficient as the data sets increase in volume,
+as opposed to other machine learning algorithms that may plateau as data increases. 
+APPLICATION OF MACHINE LEARNING
+Recommender systems are certainly one of the major applications. Classifications, cluster analysis, Market basket analysis, Predictive analysis, Decision trees, Bayesian Analysis. Recommendations is also a part it being applied. Fraud Detections
+REPORT STRUCTURE
+The structure of the final report for a Data Science project should include a cover page, table of contents, executive summary, detailed contents, acknowledgements, references and appendices.
+The report should present a thorough analysis of the data and communicate the project findings.
